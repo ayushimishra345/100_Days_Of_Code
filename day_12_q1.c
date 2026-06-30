@@ -17,6 +17,7 @@ Input 3:
 Output 3:
 Fine ₹90
 
+
 Input 4:
 31
 Output 4:
