@@ -7,6 +7,7 @@ Input 1:
 Output 1:
 8 (2 * 4)
 
+
 Input 2:
 6
 Output 2:
